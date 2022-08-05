@@ -1,2 +1,2 @@
 # Rolls.js
-Rolls
+Single-sign-on setup for starting project
